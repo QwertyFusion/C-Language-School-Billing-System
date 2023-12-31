@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1600789478 source:c:\users\adones\desktop\code blocks\school_billing_system_in_c\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
