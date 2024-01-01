@@ -32,8 +32,8 @@
 Now, Code Blocks will automatically detect GCC Compiler.
 
 ## Programming languages and tools used:-
-1. Visual Studio Code
-2. CodeBlocks
+1. Visual Studio Code (Version: 1.85.1)
+2. CodeBlocks (Version: 20.03)
 
 ## Programming languages and tools used:-
 <p align="left">
