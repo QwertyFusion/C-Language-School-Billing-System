@@ -9,12 +9,10 @@
 2. Click on this [link](https://www.codeblocks.org) or go to [https://www.codeblocks.org](https://www.codeblocks.org).
 3. Click on the “Downloads” Section.
 4. Click On “Download the binary release”.
-5. As per this Date, download the Latest Version of Code Blocks.
+5. As per this Date, download the Latest Version of Code Blocks. I’ll suggest you download the file with MinGW written on it (“codeblocks-20.03mingw-setup.exe”) as MinGW is a Compiler that is needed to run the Program.
    ```
     codeblocks-20.03-setup.exe : It is a standard executable file that is easier to install.
     codeblocks-20.03-nosetup.zip : It is a zip file which you do not have to install , you can just unzip and run it.
-   
-    I’ll suggest you download the file with MinGW written on it (“codeblocks-20.03mingw-setup.exe”) as MinGW is a Compiler that is needed to run the Program.
    ```
 7. Click on Sourceforge.net under the Download Section of your desired file, then Download should begin within some seconds.
 9. When the download is completed, Open Your Code Blocks Setup File.
