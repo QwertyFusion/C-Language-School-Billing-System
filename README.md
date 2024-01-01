@@ -1,5 +1,4 @@
 # School Billing System
-<img src="" alt="School Billing System Project by Rishi Banerjee" height="300"/>
 <p align="center">
   <img src="https://raw.github.com/QwertyFusion/C-Language-School-Billing-System/master/Images/demo.png" alt="School Billing System Project by Rishi Banerjee" height="300"/>
 </p>
