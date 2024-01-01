@@ -5,7 +5,7 @@
 <p align="center">This Project Simulates a Simple School Billing System, which is programmed in C.</p>
 
 ## Codeblocks Installation Guide
-1. Open Your Web Browser/
+1. Open Your Web Browser.
 2. Click on this [link](https://www.codeblocks.org) or go to [https://www.codeblocks.org](https://www.codeblocks.org).
 3. Click on the “Downloads” Section.
 4. Click On “Download the binary release”.
